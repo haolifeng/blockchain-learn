@@ -12,8 +12,8 @@ const constractInstance = web3.eth.contract(abi).at(env.scaddr);
 const account = env.Man.address;
 const passwd = env.Man.passWd;
 
-web3.personal.unlockAccount(account, passwd);
-
+//web3.personal.unlockAccount(account, passwd);
+/*
 constractInstance.SetNum.sendTransaction(30,{from:account,gas:3500000},function(err, result){
     if(err){
         console.log(err);
@@ -21,7 +21,7 @@ constractInstance.SetNum.sendTransaction(30,{from:account,gas:3500000},function(
         console.log("result" + result);
     }
 });
-
+*/
 const evenSetNum = constractInstance["eventSetNum"]({},{fromBlock:1, toBlock:'latest'});
 
 evenSetNum.watch(function(err, result){
