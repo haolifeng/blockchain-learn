@@ -1,0 +1,3 @@
+# use truffle compile file
+# after solcjs compile sol file, bytecode no '0x' prefix, so you have to add '0x' before bytecode, but after truffle compile sol, the '0x' will add before bytecode
+#
