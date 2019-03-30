@@ -1,0 +1,94 @@
+2018-12-26 10:04:39,202 [mLogger] [INFO] ntfserv begin to runn ... 
+2018-12-26 10:04:39,234 [mLogger] [ERROR] /home/hlf/Project/ntfserve/db/dbcommon.js failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+2018-12-26 10:05:27,285 [mLogger] [INFO] ntfserv begin to runn ... 
+2018-12-26 10:12:32,496 [mLogger] [INFO] ntfserv begin to runn ... 
+2018-12-26 10:14:56,454 [mLogger] [INFO] ntfserv begin to runn ... 
+2018-12-26 10:23:53,040 [mLogger] [INFO] ntfserv begin to runn ... 
+2018-12-26 10:24:33,573 [mLogger] [DEBUG] { cardid: '3', cardaddress: '333', card_own: 'haolifeng1' }
+2018-12-26 13:36:23,666 [mLogger] [INFO] ntfserv begin to runn ... 
+2018-12-26 13:36:23,677 [mLogger] [ERROR] /home/hlf/Project/ntfserve/db/dbcommon.js failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+2018-12-26 13:39:09,531 [mLogger] [INFO] ntfserv begin to runn ... 
+2018-12-26 13:40:16,291 [mLogger] [DEBUG] { card_id: '13', card_address: '2', card_own: 'haolifeng1' }
+2018-12-26 14:33:31,817 [mLogger] [INFO] ntfserv begin to runn ... 
+2018-12-26 14:36:57,991 [mLogger] [DEBUG] uploadsDir is : /uploads/
+2018-12-26 14:38:02,249 [mLogger] [INFO] ntfserv begin to runn ... 
+2018-12-26 14:38:09,270 [mLogger] [DEBUG] uploadsDir is : /uploads/
+2018-12-26 14:38:09,270 [mLogger] [DEBUG] baseDir :/home/hlf/Project/ntfserve/uploads/
+2018-12-26 14:38:09,271 [mLogger] [DEBUG] newfile is : e890d9994ff6136b76013ac9c3737f05.jpg
+2018-12-26 14:38:09,272 [mLogger] [DEBUG] oldfile :/home/hlf/Project/ntfserve/uploads/e890d9994ff6136b76013ac9c3737f05
+2018-12-26 14:38:09,272 [mLogger] [DEBUG] path.fullpath + newfile: e890d9994ff6136b76013ac9c3737f05.jpg
+2018-12-26 14:46:21,796 [mLogger] [INFO] ntfserv begin to runn ... 
+2018-12-26 14:46:51,727 [mLogger] [DEBUG] uploadsDir is : /uploads/
+2018-12-26 14:46:51,727 [mLogger] [DEBUG] baseDir :/home/hlf/Project/ntfserve/uploads/
+2018-12-26 14:46:51,727 [mLogger] [DEBUG] newfile is : 6385271af4f6bcf699695307bde0f507.jpg
+2018-12-26 14:46:51,729 [mLogger] [DEBUG] oldfile :/home/hlf/Project/ntfserve/uploads/6385271af4f6bcf699695307bde0f507
+2018-12-26 14:46:51,729 [mLogger] [DEBUG] path.fullpath + newfile: 6385271af4f6bcf699695307bde0f507.jpg
+2018-12-26 14:46:51,729 [mLogger] [DEBUG] { card_id: '15', card_address: '15', card_own: 'haolifeng1' }
+2018-12-26 14:46:51,735 [mLogger] [DEBUG] {"_id":"5c2323db137d05127b8d1e2b","card_img":"/uploads//2018/12/26/6385271af4f6bcf699695307bde0f507.jpg"}
+2018-12-26 14:59:14,772 [mLogger] [INFO] ntfserv begin to runn ... 
+2018-12-26 14:59:34,291 [mLogger] [DEBUG] uploadsDir is : /uploads/
+2018-12-26 14:59:34,291 [mLogger] [DEBUG] baseDir :/home/hlf/Project/ntfserve/uploads/
+2018-12-26 14:59:34,291 [mLogger] [DEBUG] newfile is : 597f1ea58ca4a0b06f751bc03a65f676.jpg
+2018-12-26 14:59:34,292 [mLogger] [DEBUG] oldfile :/home/hlf/Project/ntfserve/uploads/597f1ea58ca4a0b06f751bc03a65f676
+2018-12-26 14:59:34,293 [mLogger] [DEBUG] path.fullpath + newfile: 597f1ea58ca4a0b06f751bc03a65f676.jpg
+2018-12-26 14:59:34,293 [mLogger] [DEBUG] { card_id: '15', card_address: '15', card_own: 'haolifeng1' }
+2018-12-26 14:59:34,295 [mLogger] [DEBUG] create : undefined
+2018-12-26 14:59:34,299 [mLogger] [DEBUG] 0 -- {"_id":"5c2326d6d02de913567889b0","card_img":"/uploads//2018/12/26/597f1ea58ca4a0b06f751bc03a65f676.jpg"}
+2018-12-26 15:06:20,383 [mLogger] [INFO] ntfserv begin to runn ... 
+2018-12-26 15:06:53,326 [mLogger] [DEBUG] uploadsDir is : /uploads/
+2018-12-26 15:06:53,327 [mLogger] [DEBUG] baseDir :/home/hlf/Project/ntfserve/uploads/
+2018-12-26 15:06:53,327 [mLogger] [DEBUG] newfile is : 52096423b3cc0d41b969148f33adc5c0.jpg
+2018-12-26 15:06:53,328 [mLogger] [DEBUG] oldfile :/home/hlf/Project/ntfserve/uploads/52096423b3cc0d41b969148f33adc5c0
+2018-12-26 15:06:53,329 [mLogger] [DEBUG] path.fullpath + newfile: 52096423b3cc0d41b969148f33adc5c0.jpg
+2018-12-26 15:20:55,947 [mLogger] [INFO] ntfserv begin to runn ... 
+2018-12-26 15:21:16,535 [mLogger] [DEBUG] uploadsDir is : /uploads/
+2018-12-26 15:21:16,536 [mLogger] [DEBUG] baseDir :/home/hlf/Project/ntfserve/uploads/
+2018-12-26 15:21:16,536 [mLogger] [DEBUG] newfile is : 10929c65861b8b9415d4deea8cc2614c.jpg
+2018-12-26 15:21:16,538 [mLogger] [DEBUG] oldfile :/home/hlf/Project/ntfserve/uploads/10929c65861b8b9415d4deea8cc2614c
+2018-12-26 15:21:16,538 [mLogger] [DEBUG] path.fullpath + newfile: 10929c65861b8b9415d4deea8cc2614c.jpg
+2018-12-26 15:21:16,539 [mLogger] [DEBUG] { card_id: '15', card_address: '15', card_own: 'haolifeng1' }
+2018-12-26 15:26:18,365 [mLogger] [INFO] ntfserv begin to runn ... 
+2018-12-26 15:26:38,543 [mLogger] [DEBUG] uploadsDir is : /uploads/
+2018-12-26 15:26:38,544 [mLogger] [DEBUG] baseDir :/home/hlf/Project/ntfserve/uploads/
+2018-12-26 15:26:38,545 [mLogger] [DEBUG] newfile is : 9835e2f8fbb1fbfff1994e3ed3133895.jpg
+2018-12-26 15:26:38,546 [mLogger] [DEBUG] oldfile :/home/hlf/Project/ntfserve/uploads/9835e2f8fbb1fbfff1994e3ed3133895
+2018-12-26 15:26:38,547 [mLogger] [DEBUG] path.fullpath + newfile: 9835e2f8fbb1fbfff1994e3ed3133895.jpg
+2018-12-26 15:26:38,547 [mLogger] [DEBUG] { card_id: '15', card_address: '15', card_own: 'haolifeng1' }
+2018-12-26 15:33:27,865 [mLogger] [INFO] ntfserv begin to runn ... 
+2018-12-26 15:33:59,288 [mLogger] [DEBUG] uploadsDir is : /uploads/
+2018-12-26 15:33:59,288 [mLogger] [DEBUG] baseDir :/home/hlf/Project/ntfserve/uploads/
+2018-12-26 15:33:59,288 [mLogger] [DEBUG] newfile is : dee62798198dcc7610d25ab8cdef27b2.jpg
+2018-12-26 15:33:59,290 [mLogger] [DEBUG] oldfile :/home/hlf/Project/ntfserve/uploads/dee62798198dcc7610d25ab8cdef27b2
+2018-12-26 15:33:59,290 [mLogger] [DEBUG] path.fullpath + newfile: dee62798198dcc7610d25ab8cdef27b2.jpg
+2018-12-26 15:33:59,290 [mLogger] [DEBUG] { card_id: '15', card_address: '15', card_own: 'haolifeng1' }
+2018-12-26 15:34:03,686 [mLogger] [DEBUG] doc null
+2018-12-26 15:37:23,633 [mLogger] [INFO] ntfserv begin to runn ... 
+2018-12-26 15:37:36,347 [mLogger] [DEBUG] doc null
+2018-12-26 15:38:37,798 [mLogger] [INFO] ntfserv begin to runn ... 
+2018-12-26 15:38:53,353 [mLogger] [DEBUG] doc null
+2018-12-26 15:41:59,896 [mLogger] [INFO] ntfserv begin to runn ... 
+2018-12-26 15:42:15,610 [mLogger] [DEBUG] doc { _id: 5c232ee7bd76d0168484aaab,
+  card_img: '/uploads//2018/12/26/dee62798198dcc7610d25ab8cdef27b2.jpg',
+  card_id: '15',
+  card_address: '15',
+  card_own: 'haolifeng1',
+  card_qrcode: '/qrcodes//2018/12/26/dee62798198dcc7610d25ab8cdef27b2.svg',
+  createdAt: 2018-12-26T07:33:59.343Z,
+  updatedAt: 2018-12-26T07:33:59.343Z,
+  __v: 0 }
+2018-12-26 15:54:39,599 [mLogger] [INFO] ntfserv begin to runn ... 
+2018-12-26 15:55:14,845 [mLogger] [DEBUG] uploadsDir is : /uploads/
+2018-12-26 15:55:14,846 [mLogger] [DEBUG] baseDir :/home/hlf/Project/ntfserve/uploads/
+2018-12-26 15:55:14,846 [mLogger] [DEBUG] newfile is : 2e02c93100fca778b0f8d36eb83d6ba6.jpg
+2018-12-26 15:55:14,848 [mLogger] [DEBUG] oldfile :/home/hlf/Project/ntfserve/uploads/2e02c93100fca778b0f8d36eb83d6ba6
+2018-12-26 15:55:14,848 [mLogger] [DEBUG] path.fullpath + newfile: 2e02c93100fca778b0f8d36eb83d6ba6.jpg
+2018-12-26 15:55:14,849 [mLogger] [DEBUG] { card_id: '13', card_address: '2', card_own: 'haolifeng1' }
+2018-12-26 15:55:26,189 [mLogger] [DEBUG] doc { _id: 5c2333e2ca17c1186091efdc,
+  card_img: '/uploads//2018/12/26/2e02c93100fca778b0f8d36eb83d6ba6.jpg',
+  card_id: '13',
+  card_address: '2',
+  card_own: 'haolifeng1',
+  card_qrcode: '/qrcodes//2018/12/26/2e02c93100fca778b0f8d36eb83d6ba6.png',
+  createdAt: 2018-12-26T07:55:14.913Z,
+  updatedAt: 2018-12-26T07:55:14.913Z,
+  __v: 0 }

@@ -1,0 +1,24 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "logfile/.2f617c8bb97bd24df29e38b74285e54101609cbe-audit.json",
+    "files": [
+        {
+            "date": 1545718418077,
+            "name": "logfile/ntf.log.2018-12-25",
+            "hash": "2b2f4387cab24694c0c216593477b4f3"
+        },
+        {
+            "date": 1545789879215,
+            "name": "logfile/ntf.log.2018-12-26",
+            "hash": "8ec00e72d4f9280026ef8c982e9eaea5"
+        },
+        {
+            "date": 1546914240574,
+            "name": "logfile/ntf.log.2019-01-08",
+            "hash": "3ec22b20e308082fbbe6597e3a4dfc68"
+        }
+    ]
+}
