@@ -1,0 +1,8 @@
+{
+  "account":"0x515fc7c8f174094a52d7c4faa798a08ec33af4fb",
+  "password":"123456",
+  "keystorefile":"/home/hlf/Software/geth/data/keystore/UTC--2019-03-30T03-04-50.790820988Z--515fc7c8f174094a52d7c4faa798a08ec33af4fb",
+  "scaddr":"0xf5b77c5e6140aF24fAa68a1A758eE37f7C06Bdee",
+  "schash":"0xa8ddb9d3df05ccf8f3058b26c624f127480567b9351f35dec7fcefd30464f108",
+  "chainhttp":"http://127.0.0.1:8545"
+}
